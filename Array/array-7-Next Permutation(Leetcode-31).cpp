@@ -1,4 +1,4 @@
-/* 2D-array -- https://leetcode.com/problems/next-permutation/ */
+/* array -- https://leetcode.com/problems/next-permutation/ */
 
 
 /* Solution-1 => Using Inbuilt function */
