@@ -27,7 +27,6 @@ int main() {
 	return 0;
 }
 
-
 /* Solution-2 => Enhanced Merge Sort */
 /* Time comp. - O(NLogN) */
 /* Space comp. - O(N) */
@@ -89,3 +88,13 @@ int main() {
 	}
 	return 0;
 }
+
+
+/* Solution-3 => Self Balancing Tree(AVL Tree) */
+/* Time comp. - O(NLogN) */
+/* Space comp. - O(N) */
+
+
+/* Solution-4 => C++ STL(Set) */
+/* Time comp. - O(N^2) */
+/* Space comp. - O(N) */
