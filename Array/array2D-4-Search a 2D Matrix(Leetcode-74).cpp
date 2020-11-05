@@ -1,4 +1,4 @@
-/* array -- https://leetcode.com/problems/search-a-2d-matrix/ */
+/* 2D-array -- https://leetcode.com/problems/search-a-2d-matrix/ */
 
 
 /* Solution-1 => Brute Force */
