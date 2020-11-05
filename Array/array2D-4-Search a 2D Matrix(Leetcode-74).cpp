@@ -2,11 +2,11 @@
 
 
 /* Solution-1 => Brute Force */
-/* Time comp. - O(N*N) */
+/* Time comp. - O(N*M) */
 /* Space comp. - O(1) */
 
-/* Solution-1 => Binary Search */
-/* Time comp. - O(N*N) */
+/* Solution-2 => Binary Search */
+/* Time comp. - O(log(N*M)) */
 /* Space comp. - O(1) */
 
 class Solution {
