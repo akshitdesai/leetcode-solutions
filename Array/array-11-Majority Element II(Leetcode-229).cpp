@@ -1,5 +1,4 @@
-
-/* array -- https://leetcode.com/problems/majority-element/ */
+/* array -- https://leetcode.com/problems/majority-element-ii/ */
 
 
 /* Solution-1 => Brute Force */
