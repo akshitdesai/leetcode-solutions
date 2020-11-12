@@ -1,4 +1,4 @@
-* array -- https://leetcode.com/problems/reverse-pairs/ */
+/* array -- https://leetcode.com/problems/reverse-pairs */
 
 
 /* Solution-1 => Brute Force, Verdict-TLE */
