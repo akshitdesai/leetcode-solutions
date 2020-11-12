@@ -25,9 +25,9 @@ public:
 
 
 /* Solution-2 => BST */
-/* Time comp. - O(NLogN) */
+/* Time comp. - O(N*N) */
 /* Space comp. - O(N) */
-/* It can take O(N*N) in case of sorted array */
+/* It can take NlogN in avg. case */
 
 class Solution {
 public:
