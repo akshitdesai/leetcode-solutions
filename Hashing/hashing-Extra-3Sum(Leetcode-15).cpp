@@ -1,4 +1,4 @@
-/* hashing -- https://leetcode.com/problems/two-sum/ */
+/* hashing -- https://leetcode.com/problems/3sum/ */
 
 
 /* Solution-1 => Brute Force */
