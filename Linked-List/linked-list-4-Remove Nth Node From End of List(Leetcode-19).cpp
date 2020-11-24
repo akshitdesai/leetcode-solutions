@@ -32,3 +32,9 @@ public:
         return head;
     }
 };
+
+/* Solution-1 => One Pass */
+/* Time comp. - O(N) */
+/* Space comp. - O(1) */
+
+
