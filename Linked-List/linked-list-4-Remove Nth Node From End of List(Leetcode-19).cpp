@@ -33,7 +33,7 @@ public:
     }
 };
 
-/* Solution-1 => One Pass */
+/* Solution-2 => One Pass */
 /* Time comp. - O(N) */
 /* Space comp. - O(1) */
 
