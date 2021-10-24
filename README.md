@@ -15,3 +15,12 @@ Solution of SDE sheet created by Raj Vikramaditya - striver
 11. Leetcode - 229
 12. Leetcode - 62
 13. Leetcode - 493
+
+## 2D-Arrat Problems
+1. Leetcode - 73
+2. Leetcode - 118
+3. Leetcode - 48
+4. Leetcode - 74
+5. Leetcode - 119
+6. Leetcode - 50
+
