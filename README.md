@@ -16,11 +16,21 @@ Solution of SDE sheet created by Raj Vikramaditya - striver
 12. Leetcode - 62
 13. Leetcode - 493
 
-## 2D-Arrat Problems
+## 2D-Array Problems
 1. Leetcode - 73
 2. Leetcode - 118
 3. Leetcode - 48
 4. Leetcode - 74
 5. Leetcode - 119
 6. Leetcode - 50
+
+## Hashing Problems
+1. Leetcode - 1
+2. Leetcode - 18
+3. Leetcode - 128
+4. GFG - Count number of subarrays with given XOR
+5. Leetcode - 3
+6. Leetcode - 15
+7. Leetcode - 454
+8. Leetcode - 1310
 
