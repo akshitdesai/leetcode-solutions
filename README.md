@@ -1,5 +1,6 @@
-# SDE-sheet-solution
-Solution of SDE sheet created by Raj Vikramaditya - striver
+# leetcode-solutions
+Source:
+1. Solution of SDE sheet created by Raj Vikramaditya - striver
 
 ## Array Problems
 1. Leetcode - 287
