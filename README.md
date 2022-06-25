@@ -1,6 +1,5 @@
 # leetcode-solutions
-Source:
-1. Solution of SDE sheet created by Raj Vikramaditya - striver
+As part of my DSA preparation I will add solutions of leetcode and other questions in C++ and golang(because why not?).
 
 ## Array Problems
 1. Leetcode - 287
@@ -42,3 +41,6 @@ Source:
 1. Leetcode - 19
 1. Leetcode - 237
 1. Leetcode - 2
+
+Source for problem-list:
+1. Solution of SDE sheet created by Raj Vikramaditya - striver
